@@ -2,17 +2,12 @@
 
 - 👀 Passionate about technology and programming since always, I seek to change careers to develop this knowledge in a professional way. 
 
-- 🌱 I’m currently learning ...
+- 🌱 I am very interested in Docker and Jenkins. I am looking for a development team to get the necessary feedback and experiment with these technologies.
 
-- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: www.linkedin.com/in/sebastiandavila
 
-- 📫 How to reach me ...
+- :penguin:  I use the following technologies: GNU/Linux, HTML5, CSS3, JavaScript, Python, Django, SQL, Postgres, Django REST. 
 
-- :penguin:  I use the following technologies: GNU/Linux
-HTML5, CSS3, JavaScript, Python, Django, SQL, Postgres, Django REST. 
+- Development, Testing and Deploy -
 
-- Development, Testing and Deploy - 
-
-- My LinkedIn:  www.linkedin.com/in/sebastiandavila
-
-- My portfolio: https://sebadp.github.io/sebastiandavila.github.io/
+-:octocat: My portfolio: https://sebadp.github.io/sebastiandavila.github.io/
