@@ -4,7 +4,7 @@
 
 🌱 I am very interested in Docker and Jenkins. I am looking for a development team to get the necessary feedback and experiment with these technologies.
 
-📫 How to reach me: www.linkedin.com/in/sebastiandavila
+📫 Reach me at: www.linkedin.com/in/sebastiandavila
 
 :penguin:  I use the following technologies: GNU/Linux, HTML5, CSS3, JavaScript, Python, Django, SQL, Postgres, Django REST. 
 
