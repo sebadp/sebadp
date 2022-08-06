@@ -1,13 +1,26 @@
-👋 Hi, I’m Sebastián Dávila, Backend Developer. (Python-Django && JavaScript.)
+👋 Hi, I’m Sebastián Dávila, Backend Developer. (Python-Django)
 
-👀 Passionate about technology and programming since always, I seek to change careers to develop this knowledge in a professional way. 
+👀  I provide Web solutions in Python-Django and Javascript environments.
+    I can listen with empathy, make diagnoses, propose solutions and carry them out.
+
+I use the following technologies:
+ HTML5, CSS3, JavaScript, Bootstrap
+ Python, Django, Django REST Framework.
+ SQL, PostgreSQL, MySQL.
+ Pycharm - VSCode - Spyder.
+ Postmann.
+ MS Teams, Slack.
+ GNU/Linux user (20 years of experience) - BASH
+ Vagrant - Docker
+ Github-Bitbucket.
+ SonarCloud - Sumo logic
+ JIRA, Confluence.
+
+ Development, Testing and Deployment on server.
+ Teamwork and agile methodologies. Scrum experience.
+
+
+:octocat: Portfolio(2021): https://sebadp.github.io/sebastiandavila.github.io/
+
 
 📫 Reach me at: www.linkedin.com/in/sebastiandavila
-
-:penguin: I use the following technologies: GNU/Linux, HTML5, CSS3, JavaScript, Python, Django, SQL, Postgres, Django REST Framework. Docker, Git.
-
-Currently learning Reddis and Celery. (May 2021)
-
-Development, Testing and Deploy -
-
-:octocat: My portfolio: https://sebadp.github.io/sebastiandavila.github.io/
