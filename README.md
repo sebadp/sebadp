@@ -4,19 +4,30 @@
     I can listen with empathy, make diagnoses, propose solutions and carry them out.
 
 I use the following technologies:
- HTML5, CSS3, JavaScript, Bootstrap
- Python, Django, Django REST Framework.
- SQL, PostgreSQL, MySQL.
- Pycharm - VSCode - Spyder.
- Postmann.
- MS Teams, Slack.
- GNU/Linux user (20 years of experience) - BASH
- Vagrant - Docker
- Github-Bitbucket.
- SonarCloud - Sumo logic
- JIRA, Confluence.
 
- Development, Testing and Deployment on server.
+HTML5, CSS3, JavaScript, Bootstrap
+
+Python, Django, Django REST Framework.
+
+SQL, PostgreSQL, MySQL.
+
+Pycharm - VSCode - Spyder.
+
+Postmann.
+
+MS Teams, Slack.
+
+GNU/Linux user (20 years of experience) - BASH
+
+Vagrant - Docker
+
+Github-Bitbucket.
+
+SonarCloud - Sumo logic
+
+JIRA, Confluence.
+
+Development, Testing and Deployment on server.
  Teamwork and agile methodologies. Scrum experience.
 
 
