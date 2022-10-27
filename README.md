@@ -5,33 +5,25 @@
 
 I use the following technologies:
 
-HTML5, CSS3, JavaScript, Bootstrap
-
-Python, Django, Django REST Framework.
-
-SQL, PostgreSQL, MySQL.
+Python, Django, Django REST Framework, Flask, FastAPI.
+SQL, PostgreSQL, MySQL, Mongo DB.
+HTML5, CSS3, JavaScript, Bootstrap.
 
 Pycharm - VSCode - Spyder.
-
 Postmann.
-
 MS Teams, Slack.
 
-GNU/Linux user (20 years of experience) - BASH
-
-Vagrant - Docker
+GNU/Linux - BASH
+Vagrant - Docker - Kubernetes
 
 Github-Bitbucket.
-
-SonarCloud - Sumo logic
+SonarCloud - Sumo logic - Sentry
 
 JIRA, Confluence.
 
-Development, Testing and Deployment on server.
- Teamwork and agile methodologies. Scrum experience.
-
+Development, Testing and Deployment.
+Teamwork and agile methodologies. Scrum experience.
 
 :octocat: Portfolio(2021): https://sebadp.github.io/sebastiandavila.github.io/
-
 
 📫 Reach me at: www.linkedin.com/in/sebastiandavila
