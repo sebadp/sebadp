@@ -1,16 +1,19 @@
 👋 Hi, I'm Sebastián Dávila | Backend Developer | Python & Django-FastAPI Specialist
 
 🚀 Results-driven backend developer with 4+ years of experience designing and optimizing scalable web applications.
-🛠️ Refactored legacy systems through clean code practices, design patterns, and automated testing.
-💡 Passionate about distributed systems, performance optimization, and cloud-native technologies.
 
 🌟 Technical Proficiencies:
   
   • **Languages**: Python | JavaScript | Go | SQL | HTML5/CSS3 | Bash
+  
   • **Frameworks**: Django | FastAPI | Gin | DRF | Flask | Celery
+  
   • **Databases**: PostgreSQL | MySQL | ArangoDB | MongoDB
+  
   • **Cloud & DevOps**: Docker | Kubernetes | AWS | Azure | OpenTelemetry | Grafana
+  
   • **Architecture**: Microservices | REST APIs | Event-Driven (RabbitMQ) | Distributed Tracing
+  
   • **Practices**: TDD | SOLID Principles | CI/CD | Scrum | System Design
 
 🔥 Recent Achievements:
@@ -24,11 +27,10 @@
 
   **Backend Developer @ Southern Code (2023-2025)**  
   » Developed high-performance microservices with FastAPI and Aiohttp  
-  » Implemented event-driven architecture using Celery + RabbitMQ  
-  » Optimized monitoring with Grafana + OpenTelemetry
+  » Refactored legacy systems through clean code practices, design patterns, and automated testing.
+  » Optimized monitoring with Jaegger + OpenTelemetry
   
   **Backend Developer @ Intive (2021-2023)**  
-  » Led cloud migration to Azure with Docker/Kubernetes  
   » Integrated 15+ third-party APIs with 99.9% uptime  
   » Managed logs at scale with SumoLogic (100GB+/day)
 
