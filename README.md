@@ -1,4 +1,4 @@
-👋 Hi, I'm Sebastián Dávila | Backend Developer | Python & Django-FastAPI Specialist
+👋 Hi, I'm Sebastián Dávila | Backend & AI Developer | Python & Django-FastAPI Specialist
 
 🚀 Results-driven backend developer with 5+ years of experience designing and optimizing scalable web applications.
 
@@ -6,11 +6,11 @@
   
   • **Languages**: Python | JavaScript | Go | SQL | HTML5/CSS3 | Bash
   
-  • **Frameworks**: Django | FastAPI | Gin | DRF | Flask | Celery
+  • **Frameworks**: Django | FastAPI | Gin | DRF | Flask | Celery | LangChain | LangGraph
   
-  • **Databases**: PostgreSQL | MySQL | ArangoDB | MongoDB
+  • **Databases**: PostgreSQL | MySQL | ArangoDB | MongoDB | **Vector DB's**: ChromaDB | Pinecone 
   
-  • **Cloud & DevOps**: Docker | Kubernetes | AWS | Azure | OpenTelemetry | Grafana
+  • **Cloud & DevOps**: Docker | Kubernetes | AWS | Azure | OpenTelemetry | Grafana | LangFuse
   
   • **Architecture**: Microservices | REST APIs | Event-Driven (RabbitMQ) | Distributed Tracing
   
