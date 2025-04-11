@@ -1,6 +1,6 @@
 👋 Hi, I'm Sebastián Dávila | Backend Developer | Python & Django-FastAPI Specialist
 
-🚀 Results-driven backend developer with 4+ years of experience designing and optimizing scalable web applications.
+🚀 Results-driven backend developer with 5+ years of experience designing and optimizing scalable web applications.
 
 🌟 Technical Proficiencies:
   
