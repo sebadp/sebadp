@@ -27,6 +27,10 @@ Microservices • REST APIs • Event-Driven (RabbitMQ)
 TDD • SOLID • CI/CD • Distributed Tracing
 
 ---
+
+## 🛠️ Featured Personal Projects
+---
+
 ### 📰 Briefly - AI-Powered News Briefings
 **Autonomous research agent for personalized news curation** | [View Repo](https://github.com/sebadp/briefly)
 
