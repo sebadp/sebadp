@@ -119,7 +119,7 @@ Mobile-first application for homebrewers to manage recipes, track fermentation, 
 
 ## 💼 Professional Experience
 
-### Backend Developer @ **Trafilea** (2024)
+### Backend + Gen AI Developer @ **Trafilea** (2025)
 - Led **enterprise chatbot migration** from AWS Bedrock Agents to Strands framework
 - Designed **multi-agent architecture** with specialized agents for different business functions
 - Integrated **RAG systems** with vector databases for context-aware responses
