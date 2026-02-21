@@ -28,6 +28,27 @@ TDD • SOLID • CI/CD • Distributed Tracing
 
 ---
 
+## 💼 Professional Experience
+
+### Backend + Gen AI Developer @ **Trafilea** (2025)
+* Led enterprise chatbot migration from AWS Bedrock Agents to the **Strands framework**.
+* Designed **multi-agent architectures** with specialized agents branching by business function.
+* Built an **LLM-as-Judge evaluation pipeline**: an automated self-improvement loop scoring outputs against a Golden Dataset.
+* Integrated **RAG systems** with vector databases for context-aware, highly accurate responses.
+
+
+### Backend Developer @ **Southern Code** (2023-2024)
+* Developed high-performance **microservices** with FastAPI and Aiohttp.
+* Migrated a monolithic system to a microservices architecture (Python 3.11).
+* Implemented **distributed tracing** (Jaeger/OpenTelemetry), reducing MTTR by 40%.
+
+### Backend Developer @ **Intive** (2021-2023)
+* Integrated **15+ third-party APIs**, maintaining 99.9% uptime.
+* Optimized complex Django queries, improving search performance by 60%.
+* Managed **100GB+/day log pipelines** with SumoLogic at scale.
+
+---
+
 ## 🛠️ Featured Personal Projects
 ---
 
@@ -121,26 +142,6 @@ Mobile-first application for homebrewers to manage recipes, track fermentation, 
 
 ---
 
-## 💼 Professional Experience
-
-### Backend + Gen AI Developer @ **Trafilea** (2025)
-- Led **enterprise chatbot migration** from AWS Bedrock Agents to Strands framework
-- Designed **multi-agent architecture** with specialized agents for different business functions
-- Integrated **RAG systems** with vector databases for context-aware responses
-
-### Backend Developer @ **Southern Code** (2023-2024)
-- Developed high-performance **microservices** with FastAPI and Aiohttp
-- Migrated **monolithic system to microservices** (Python 3.11 + FastAPI)
-- Implemented **distributed tracing** with Jaeger/OpenTelemetry reducing MTTR by 40%
-- Maintained multi-version Python environments (2.7 ↔ 3.11)
-
-### Backend Developer @ **Intive** (2021-2023)
-- Integrated **15+ third-party APIs** maintaining 99.9% uptime
-- Optimized Django queries improving search performance by 60%
-- Managed **100GB+/day logs** with SumoLogic at scale
-
----
-
 ## 📚 Certifications
 
 🏆 **Data Structures & Algorithms** - Jovian (2025)  
@@ -151,7 +152,8 @@ Mobile-first application for homebrewers to manage recipes, track fermentation, 
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([tu-linkedin](https://www.linkedin.com/in/sebastiandavila/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Web&logoColor=white)](https://sebadp.github.io/sebastiandavila.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/sebastiandavila/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastian.davila.personal@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sebadp)
 
